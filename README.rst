@@ -1,4 +1,4 @@
-Sanic
+Sanics
 =====
 
 |Join the chat at https://gitter.im/sanic-python/Lobby| |Build Status| |PyPI| |PyPI version|
